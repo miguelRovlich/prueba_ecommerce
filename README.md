@@ -105,7 +105,7 @@ More information on what constitutes the enviroment:
 
 ## License
 
-WTFPL
+GNU V2
 
 _Free Software_, **Hell Yeah!**
 
