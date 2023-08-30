@@ -15,7 +15,7 @@
         <div class="col-12 col-lg-4">
           <div class="newsletter-form">
             <form>
-              <input class="nl-email" placeholder="Your E-mail">
+              <input class="nl-email" placeholder="katalina.medina@gmail.com">
               <button class="input-button" @click.prevent="submit">Submit</button>
             </form>
           </div>
@@ -83,6 +83,7 @@ function submit(): void {
       background-color: #2c3539;
       color: #fff;
       font-size: 18px;
+      margin-top: 12px;
       padding: 0px 30px;
       cursor: pointer;
       position: relative;
